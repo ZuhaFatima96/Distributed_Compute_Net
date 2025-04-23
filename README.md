@@ -1,7 +1,5 @@
-# Distributed_Compute_Net
-ClientServer/  ArraySum/  MatMul/  Laplace/     :  A project that combines a client-server file transfer system with serial, OpenMP, and distributed implementations for solving array summation, matrix multiplication, and 2D Laplace equation problems.
+# Distributed_Compute_Net  
 
-# ComputeNet
 ComputeNet is a comprehensive project that combines a client-server file transfer system with serial, OpenMP, and distributed implementations for solving array summation, matrix multiplication, and 2D Laplace equation problems. The project is designed to highlight performance scaling, communication, and efficient resource utilization across machines.
 ***
 
